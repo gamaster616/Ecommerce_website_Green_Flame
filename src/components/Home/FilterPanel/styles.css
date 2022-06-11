@@ -1,0 +1,16 @@
+
+.main{  
+  padding-right: 6px;
+  height: 1000px;
+}
+
+
+.label,.label-range {
+  padding-bottom: 30px;
+  padding-right: 5px;
+  font-weight: 600;
+}
+.input-group {
+  margin-bottom: 2rem;
+  margin-left: 1rem;
+}

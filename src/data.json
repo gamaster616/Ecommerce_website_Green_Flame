@@ -1,0 +1,192 @@
+[
+  {
+    "category": "Arts",
+    "type":"Bamboo",
+    "id":1,
+    "title":"Bambooza - Bamboo Arts and Crafts",
+    "price":499.99,
+    "image":"images/bambooza_arts.png",
+    "rating":5    
+  },
+  {
+    "category": "Material",
+    "type":"Bags",
+    "id":2,
+    "title":"Recycled Eco-friendly Bag",
+    "price":99.9,
+    "image":"images/bag_image.png",
+    "rating":4   
+  },
+  {
+    "category": "Material",
+    "type":"Bamboo",
+    "id":3,
+    "title":"Bambooza Box with Lock | Eco-friendly",
+    "price":199.99,
+    "image":"images/box_bamboo.png",
+    "rating":3  
+  },
+  {
+    "category": "Material",
+    "type":"Cups",
+    "id":4,
+    "title":" Biodegradable Compostable White cup | Kraft Double Wall | Bamboo Fiber Travel Mug ",
+    "price":159.99,
+    "image":"images/white_cup.png",
+    "rating":5  
+  },
+  {
+    "category": "Material",
+    "type":"Recycled",
+    "id":5,
+    "title":"Ecofriendly Chipboard Binders (3 Unit) | Recycled Binders |",
+    "price":98.99,
+    "image":"images/binder_image.png",
+    "rating":3  
+
+  },
+  {
+    "category": "Material",
+    "type":"Recycled",
+    "id":6,
+    "title":"Brown Eco-frientdly Kraft Paper Rolls | Recycle Absorbend Kraft Paper",
+    "price":49.99,
+    "image":"images/kraft_paper.png",
+    "rating":5  
+  },
+  {
+    "category": "Arts",
+    "type":"Crafts",
+    "id":7,
+    "title":"Coconut Shell Doll | Handmade Doll | Best out of Waste",
+    "price":299.99,
+    "image":"images/coconut_shell.png",
+    "rating":4  
+  },
+  {
+    "category": "Material",
+    "type":"Bags",
+    "id":8,
+    "title":"Bamboo Eco-friendly Sustainable Designed bag",
+    "price":99.99,
+    "image":"images/bag_2.png",
+    "rating":4  
+  },
+  {
+    "category": "Arts",
+    "type":"Crafts",
+    "id":9,
+    "title":"Multipurpose Mitti Cup for multipule usage | Traditional design Indian Decor | Eco-friendly",
+    "price":149.99,
+    "image":"images/multipurpose_cup.png",
+    "rating":2  
+  },
+  {
+    "category": "Arts",
+    "type":"Crafts",
+    "id":10,
+    "title":"Eco-friendly Alternative To Balloons | Best Out of Waste ",
+    "price":29.99,
+    "image":"images/balloons_alternative.png",
+    "rating":1  
+  },
+  {
+    "category": "Material",
+    "type":"Recycled",
+    "id":11,
+    "title":"Eco-friendly Dishes | Recycled Things made From Waste ",
+    "price":99.99,
+    "image":"images/dish_image.png",
+    "rating":4  
+  },
+  {
+    "category": "Material",
+    "type":"Cups",
+    "id":12,
+    "title":"Bamboo Fiber Green cup | Reusable travel Coffee cup",
+    "price":139.99,
+    "image":"images/green_cup.png",
+    "rating":5  
+  },
+  {
+    "category": "Material",
+    "type":"Recycled",
+    "id":13,
+    "title":"Recycled Spiral Notebook with pen | Eco-Reusable",
+    "price":199.99,
+    "image":"images/notebook_pen.png",
+    "rating":4  
+  },
+  {
+    "category": "Material",
+    "type":"Chair",
+    "id":14,
+    "title":"Eco-friendly Wooden Chair | Sustainable Furniture |",
+    "price":1299.99,
+    "image":"images/Chair_image.png",
+    "rating":3  
+  },
+  {
+    "category": "Material",
+    "type":"Cups",
+    "id":15,
+    "title":" Biodegradable Eco-Friendly Sustainable Paper cup | Recyclable Product",
+    "price":49.99,
+    "image":"images/paper_cup.png",
+    "rating":4  
+  },
+  {
+    "category": "Arts",
+    "type":"Crafts",
+    "id":16,
+    "title":"Beautiful Arts and Craft Made From Waste | Best out of Waste",
+    "price":399.99,
+    "image":"images/fish_image.png",
+    "rating":1  
+  },
+  {
+    "category": "Material",
+    "type":"Bamboo",
+    "id":17,
+    "title":" Bamboo Toothbrush 10 Brush | 5 Colors Bamboo Toothbrush Natual Soft Bristles",
+    "price":99.99,
+    "image":"images/brush.png",
+    "rating":5  
+  },
+  {
+    "category": "Material",
+    "type":"Recycled",
+    "id":18,
+    "title":"Recycled Dustbin | Ecofriendly Product",
+    "price":498.99,
+    "image":"images/dustbin_image.png",
+    "rating":4  
+  },
+  {
+    "category": "Material",
+    "type":"Crafts",
+    "id":19,
+    "title":" Adhesive Crafts Paper Taps | Low Noise Packaging tape | Environmetally Friendly Products ",
+    "price":59.99,
+    "image":"images/tape.png",
+    "rating":3  
+  },
+  {
+    "category": "Material",
+    "type":"Straws",
+    "id":20,
+    "title":"Compostable Wheat Drinking Straws | Biodegradable Non-polluting Eco-friendly Straws | Total ( 100 Pieces ) ",
+    "price":99.99,
+    "image":"images/wheat_drinking_straws.png",
+    "rating":3  
+  },
+  {
+    "category": "Material",
+    "type":"Recycled",
+    "id":21,
+    "title":"Reusable Travelling Coffee Blue Cup | Recyclable Environmetally Friendly",
+    "price":129.99,
+    "image":"images/blue-cup.png",
+    "rating":2  
+  }
+]

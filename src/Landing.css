@@ -1,0 +1,164 @@
+ body {
+   margin: 0;
+   padding: 0;
+   font-family: "Poppins", sans-serif;
+ }
+
+ section {
+   /* margin: 0 120px; */
+ }
+
+
+ .main__2 {
+   background-image: linear-gradient(to top, #cbfac2, #c8ffe4);
+   display: flex;
+   flex-direction: row;
+ }
+
+ .main__2 img {
+
+   margin-left: 10vh;
+ }
+
+
+ .arrow {
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+
+.right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
+
+ .login_btn{
+  /* font-size: 10px; */
+  /* text-decoration: none; */
+  background-color: rgb(78, 249, 130);
+  padding: 5px 20px 5px 20px;
+  border: 0.01px solid grey;
+  border-radius: 10px;
+ }
+
+ .login_btn:hover{
+  background-image: linear-gradient(to bottom, #a4ff92, #78ffbe);
+ }
+ .text__part {
+   padding-left: 70vh;
+   font-size: 55px;
+   font-weight: 700;
+   line-height: 1.5;
+ }
+
+
+ .footer {
+   background-image: linear-gradient(to bottom, #cbfac2, #c8ffe4);
+   padding-left: 30vh;
+   padding-bottom: 10vh;
+
+ }
+
+ #together {
+   color: rgb(155, 237, 33);
+ }
+
+ #image {
+   /* margin:0px 0px 250px 100px; */
+   padding-left: 340px;
+   /* width: 50%;  */
+ }
+
+ section header img {
+   padding-top: 0px;
+   padding-bottom: 10px;
+ }
+
+
+ #main {
+   background-image: linear-gradient(to top, #cbfac2, #c8ffe4);
+
+
+   padding: 0 120px;
+   padding-top: 150px;
+   display: flex;
+   flex-direction: row;
+
+
+ }
+
+
+ .gap {
+   background-image: linear-gradient(to bottom, #cbfac2, #c8ffe4);
+
+ }
+
+ header {
+
+   background-image: linear-gradient(to bottom, #cbfac2, #c8ffe4);
+   display: grid;
+   /* grid-template-columns: 1fr 1fr; */
+
+ }
+
+
+
+
+ header {
+   display: flex;
+   flex-direction: row;
+   padding: 5vh 0vh 5vh 20vh;
+ }
+
+ header div ul {
+   padding: 5vh 0vh 0vh 10vh;
+ }
+
+ header div {
+   /* margin-left: auto; */
+
+   font-size: 20px;
+ }
+
+
+
+ header ul li {
+   display: inline-block;
+   margin: 0 20px;
+ }
+
+
+
+
+
+
+ #main .main-text {
+   padding-left: 10px;
+   font-size: 55px;
+   font-weight: 700;
+   line-height: 1.5;
+ }
+
+
+ .read__more {
+
+   cursor: pointer;
+   text-decoration: none;
+   padding: 8px;
+   border-radius: 7px;
+   /* font-size: medium; */
+   background-image: linear-gradient(to bottom, #55f934, #14E37C);
+   width: 60%;
+   height: 50px;
+   border: none;
+   margin-top: 10px;
+   color: rgb(255, 255, 255);
+ }
+
+ .read__more div {
+   font-size: medium;
+   color: white;
+   text-decoration: none;
+ }
