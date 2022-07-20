@@ -1,7 +1,6 @@
 import React from 'react'
 import './Details.css'
 import { useLocation } from 'react-router-dom';
-import img1 from './bambooza_arts.png';
 import { useStateValue } from './StateProvider';
 
 
